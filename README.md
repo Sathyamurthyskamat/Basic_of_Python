@@ -35,7 +35,7 @@ sathyamurthy
 >>> print(5-2) # Subtracts 2 from 5
 ...
 3.0
->>> print(((((2500/5)-30)/10)*2)+30) # All operation in one operation 
+>>> print(((((2500/5)-30)/10)*2)+30) # All operation in one equation
 ...
 124.0
 >>> print(4**3) # Elevates 4 to the power of 3. For non integer values of 3, this becomes a root (i.e. 4**(1/2) is the square root of 4)
