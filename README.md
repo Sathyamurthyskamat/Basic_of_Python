@@ -31,7 +31,7 @@ B. After downloading double click on downloaded file click install.(Check `add t
 
 C. Installation Done..!
 
-D. Open your commamd promt(command window) (press `winkey+R` type `cmd` and give Enter).
+D. Open your commamd promt(command window) (press `winkey+R` type `cmd` and press Enter).
 
 E. In command type `python --version` press Enter key it shows the version of python (Ex: Python 3.7.9).
 
@@ -42,9 +42,9 @@ G. If you want exit from python type `exit()` and press Enter.
   Enjoy.....!!!!
         
 ### 4. Hello World
-Type `print("Hello World!")` press enter
+This `print()` acts like output. 
 ```py
->>>print("Hello World!")
+>>>print("Hello World!") #Inside the brackets you can write Integer, Float, String.
 ...
 Hello World
 ```
