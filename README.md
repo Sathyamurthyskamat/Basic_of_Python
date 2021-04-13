@@ -54,6 +54,7 @@ Hello World
 a. Integers 
 
 An integer is a datum of integral data type, a data type that represents some range of mathematical integers.
+
 Simple meaning Integers contains Number. Ex: 1,67,54 (Numbers)
 
 ```py
@@ -63,6 +64,7 @@ Simple meaning Integers contains Number. Ex: 1,67,54 (Numbers)
 ```
 b. Floats 
 The FLOAT data type stores double-precision floating-point numbers with up to 17 significant digits. 
+
 Simple meaning  Floats contains double-precision. Ex: 5.0, 5.9,2.5 etc..
 ```py
 >>>print (5.6)
@@ -71,6 +73,7 @@ Simple meaning  Floats contains double-precision. Ex: 5.0, 5.9,2.5 etc..
 ```
 c. Strings
 A string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.
+
 Simple meaning Strings are words, numbers, floats etc in side the `""`
 ```py
 >>>print ("You can enter anything+5") 
@@ -78,7 +81,10 @@ Simple meaning Strings are words, numbers, floats etc in side the `""`
 You can enter anything+5
 
 ```
+d. Complex Numbers
+Complex numbers are specified as <real part>+<imaginary part
 
+>j.
 
 ### 5. Input
 This `input()` recives the input form user.
