@@ -20,7 +20,7 @@ b. Using alongside software to create workflows.
    
 c. Connect to database system. Python can also read and modify files.
   
-d. Had=ndling big data and perform complex mathematics.
+d. Handling big data and perform complex mathematics.
   
 e. Rapid prototyping, or for production-ready software development
 
@@ -58,9 +58,12 @@ An integer is a datum of integral data type, a data type that represents some ra
 Simple meaning Integers contains Number. Ex: 1,67,54 (Numbers)
 
 ```py
->>>orint(10)
+>>>print(10)
 ...
 10
+>>>type(10)
+...
+<class 'int'>
 ```
 b. Floats 
 The FLOAT data type stores double-precision floating-point numbers with up to 17 significant digits. 
@@ -70,6 +73,9 @@ Simple meaning  Floats contains double-precision. Ex: 5.0, 5.9,2.5 etc..
 >>>print (5.6)
 ...
 5.6
+>>>type(3.142)
+...
+<class 'float'>
 ```
 c. Strings
 A string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.
@@ -79,12 +85,21 @@ Simple meaning Strings are words, numbers, floats etc in side the `""`
 >>>print ("You can enter anything+5") 
 ...
 You can enter anything+5
-
+>>>type("5+10 name")
+...
+<class 'str'>
 ```
 d. Complex Numbers
-Complex numbers are specified as <real part>+<imaginary part
-
->j.
+Complex numbers are specified as <real part>+<imaginary part>j.
+      
+```py
+>>>2+10j
+...
+2+10j
+>>>type(50+2j)
+...
+<class 'complex'>
+```
 
 ### 5. Input
 This `input()` recives the input form user.
