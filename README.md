@@ -100,6 +100,16 @@ Complex numbers are specified as <real part>+<imaginary part>j.
 ...
 <class 'complex'>
 ```
+e. Boolean Types
+Objects of Boolean type may have one of two values, True or False:
+```py
+>>> type(True)
+...
+<class 'bool'>
+>>> type(False)
+...
+<class 'bool'>
+```
 
 ### 5. Input
 This `input()` recives the input form user.
