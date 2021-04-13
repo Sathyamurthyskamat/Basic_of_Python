@@ -49,6 +49,13 @@ This `print()` acts like output.
 Hello World
 ```
 
+###5. Data types in Python
+a. Integers 
+An integer is a datum of integral data type, a data type that represents some range of mathematical integers.
+```py
+
+```
+
 
 
 ### 5. Input
