@@ -1,19 +1,28 @@
 >Just when you thought, Python is difficulty try this.
 
 ### 1. What is Python?
-        Python is an interpreted, high-level and general-purpose programming language.
-          It is used for,
-            a. Web development,
-            b. Software development,
-            c. Mathematics,
-            d. System scripting.
+Python is an interpreted, high-level and general-purpose programming language.
+It is used for 
+
+a.Web development,
+
+b. Software development,
+
+c.Mathematics,
+
+d. System scripting.
       
 ### 2. What can we do using Python?
-        a. Creation web application(Server-side).
-        b. Using alongside software to create workflows.
-        c. Connect to database system. Python can also read and modify files.
-        d. Had=ndling big data and perform complex mathematics.
-        e. Rapid prototyping, or for production-ready software development
+
+a. Creation web application(Server-side)
+
+b. Using alongside software to create workflows.
+   
+c. Connect to database system. Python can also read and modify files.
+  
+d. Had=ndling big data and perform complex mathematics.
+  
+e. Rapid prototyping, or for production-ready software development
 
 ### 3. Installation of Python
         Goto https://www.python.org/downloads/ Check your operating system(OS) windows/Linux/UNIX, Mac OS X. Click download.
