@@ -1,7 +1,33 @@
 >Just when you thought, Python is difficulty try this.
 
-### 1. Hello World
+### 1. What is Python?
+        Python is an interpreted, high-level and general-purpose programming language.
+          It is used for,
+            a. Web development,
+            b. Software development,
+            c. Mathematics,
+            d. System scripting.
+      
+### 2. What can we do using Python?
+        a. Creation web application(Server-side).
+        b. Using alongside software to create workflows.
+        c. Connect to database system. Python can also read and modify files.
+        d. Had=ndling big data and perform complex mathematics.
+        e. Rapid prototyping, or for production-ready software development
 
+### 3. Installation of Python
+        Goto https://www.python.org/downloads/ Check your operating system(OS) windows/Linux/UNIX, Mac OS X. Click download.
+        After downloading double click on downloaded file click install.(Check `add to path` option while installing).
+        Installation Done..!
+        Open your commamd promt(command window) (press `winkey+R` type `cmd` and give Enter)
+        In command type `python --version` press Enter key it shows the version of python (Ex: Python 3.7.9).
+        Type python and press Enter key. It shows the python version with your machine(computer) information.
+        If you want exit from python type `exit()` and press Enter.
+        
+        Enjoy.....!!!!
+        
+### 4. Hello World
+       Type `print("Hello World!")` press enter
 ```py
 >>>print("Hello World!")
 ...
