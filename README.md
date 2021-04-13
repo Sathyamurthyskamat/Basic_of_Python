@@ -25,25 +25,33 @@ d. Had=ndling big data and perform complex mathematics.
 e. Rapid prototyping, or for production-ready software development
 
 ### 3. Installation of Python
-        Goto https://www.python.org/downloads/ Check your operating system(OS) windows/Linux/UNIX, Mac OS X. Click download.
-        After downloading double click on downloaded file click install.(Check `add to path` option while installing).
-        Installation Done..!
-        Open your commamd promt(command window) (press `winkey+R` type `cmd` and give Enter)
-        In command type `python --version` press Enter key it shows the version of python (Ex: Python 3.7.9).
-        Type python and press Enter key. It shows the python version with your machine(computer) information.
-        If you want exit from python type `exit()` and press Enter.
+A. Goto https://www.python.org/downloads/ Check your operating system(OS) windows/Linux/UNIX, Mac OS X. Click download.
+
+B. After downloading double click on downloaded file click install.(Check `add to path` option while installing).
+
+C. Installation Done..!
+
+D. Open your commamd promt(command window) (press `winkey+R` type `cmd` and give Enter).
+
+E. In command type `python --version` press Enter key it shows the version of python (Ex: Python 3.7.9).
+
+F. Type `python` and press Enter key. It shows the python version with your machine(computer) information.
+
+G. If you want exit from python type `exit()` and press Enter.
         
-        Enjoy.....!!!!
+  Enjoy.....!!!!
         
 ### 4. Hello World
-       Type `print("Hello World!")` press enter
+Type `print("Hello World!")` press enter
 ```py
 >>>print("Hello World!")
 ...
 Hello World
 ```
 
-### 2. Input
+
+
+### 5. Input
 This `input()` recives the input form user.
 ```py
 >>> number = input("Enter number/Float/String: ")# You can give integer, Float, String.
@@ -56,7 +64,7 @@ Enter number/Float/String: 3.142 #Interger Example 3.142(pie)
 Enter number/Float/String: sathyamurthy #Interger Example 'Your name'
 sathyamurthy
 ```
-### 3. Python Can Use as Calculator
+### 6. Python Can Use as Calculator
 ```py
 >>> print(5+8) # Adds 5 and 8
 ...
