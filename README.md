@@ -66,6 +66,7 @@ Simple meaning Integers contains Number. Ex: 1,67,54 (Numbers)
 <class 'int'>
 ```
 b. Floats 
+
 The FLOAT data type stores double-precision floating-point numbers with up to 17 significant digits. 
 
 Simple meaning  Floats contains double-precision. Ex: 5.0, 5.9,2.5 etc..
@@ -78,6 +79,7 @@ Simple meaning  Floats contains double-precision. Ex: 5.0, 5.9,2.5 etc..
 <class 'float'>
 ```
 c. Strings
+
 A string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.
 
 Simple meaning Strings are words, numbers, floats etc in side the `""`
@@ -90,6 +92,7 @@ You can enter anything+5
 <class 'str'>
 ```
 d. Complex Numbers
+
 Complex numbers are specified as <real part>+<imaginary part>j.
       
 ```py
@@ -101,6 +104,7 @@ Complex numbers are specified as <real part>+<imaginary part>j.
 <class 'complex'>
 ```
 e. Boolean Types
+
 Objects of Boolean type may have one of two values, True or False:
 ```py
 >>> type(True)
