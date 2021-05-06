@@ -25,6 +25,7 @@ d. Handling big data and perform complex mathematics.
 e. Rapid prototyping, or for production-ready software development
 
 ### 3. Installation of Python
+
 A. Goto https://www.python.org/downloads/ Check your operating system(OS) windows/Linux/UNIX, Mac OS X. Click download.
 
 B. After downloading double click on downloaded file click install.(Check `add to path` option while installing).
@@ -114,8 +115,21 @@ Objects of Boolean type may have one of two values, True or False:
 ...
 <class 'bool'>
 ```
+### 6. Variables, Assignment and Expression
+#Variables
 
-### 5. Input
+Variables are name that we give to certain values in our Programs.
+
+#Assignment
+
+The process of storing a values inside a variable is called Assignment.
+
+#Expression
+
+An Expression is a combination of number, symbols or other variables that produce a result when Evaluated.
+
+
+### 7. Input
 This `input()` recives the input form user.
 ```py
 >>> number = input("Enter number/Float/String: ")# You can give integer, Float, String.
@@ -128,7 +142,7 @@ Enter number/Float/String: 3.142 #Interger Example 3.142(pie)
 Enter number/Float/String: sathyamurthy #Interger Example 'Your name'
 sathyamurthy
 ```
-### 6. Python Can Use as Calculator
+### 8. Python Can Use as Calculator
 ```py
 >>> print(5+8) # Adds 5 and 8
 ...
@@ -152,3 +166,37 @@ sathyamurthy
 ...
 1.0
 ```
+
+### 9. Functions
+We use the `def` keyword for defining a function.
+```py
+>>>def hello_function(name):
+	print("Hello"+name)
+>>>hello_function("Sathya")
+...
+Hello Sathya
+```
+
+### 10. Oparators, Boolean Oparators and Conditions
+
+Oparators:
+
+a. Equal `==` and Not Equal `!=`
+
+b. Less than ``, More than ``, Equal and Less than ``, Equal and More than ``
+
+Boolean Oparators:
+
+OR gate `|| or `, AND gate `&& and`.
+
+Conditions
+
+if 
+
+elif
+
+else
+
+### 11. Loops
+a. While loops
+b. For loops
