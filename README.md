@@ -183,7 +183,7 @@ Oparators:
 
 a. Equal `==` and Not Equal `!=`
 
-b. Less than ``, More than ``, Equal and Less than ``, Equal and More than ``
+b. Less than `>`, More than `<`, Equal and Less than `>=`, Equal and More than `<=`
 
 Boolean Oparators:
 
