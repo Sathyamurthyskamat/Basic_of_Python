@@ -231,9 +231,7 @@ A. If, Elif and Else Loop:
 		print("False")
 	...
 	False
-
-	a = 3
-
+	>>>a = 3
 	>>>if a <= b:
 		print("True")
 	   else:
