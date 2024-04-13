@@ -204,7 +204,7 @@ Signed fill right shift ` >> `
 
 A. If, Elif and Else Loop: 
 	If else Loop can used multiple ways using oparators and boolean oparators. Example below,
-	```py
+ ```py
  
 	a = 2
 	b = 3
@@ -245,7 +245,7 @@ A. If, Elif and Else Loop:
 		print("False")
 	...
 	True
-	```
+```
 b. While loops
 	While Loops Basically Loop will run, over and over again untill `Break` executive.
 ```py
