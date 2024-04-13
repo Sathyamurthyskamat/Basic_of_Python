@@ -205,6 +205,7 @@ Signed fill right shift ` >> `
 A. If, Elif and Else Loop: 
 	If else Loop can used multiple ways using oparators and boolean oparators. Example below,
 	```py
+ 
 	a = 2
 	b = 3
 	>>>if a == b:
