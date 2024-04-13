@@ -4,11 +4,11 @@
 Python is an interpreted, high-level and general-purpose programming language.
 It is used for 
 
-a.Web development,
+a. Web development,
 
 b. Software development,
 
-c.Mathematics,
+c. Mathematics,
 
 d. System scripting.
       
@@ -142,6 +142,7 @@ Enter number/Float/String: 3.142 #Interger Example 3.142(pie)
 Enter number/Float/String: sathyamurthy #Interger Example 'Your name'
 sathyamurthy
 ```
+
 ### 8. Python Can Use as Calculator
 ```py
 >>> print(5+8) # Adds 5 and 8
@@ -177,7 +178,7 @@ We use the `def` keyword for defining a function.
 Hello Sathya
 ```
 
-### 10. Oparators, Boolean Oparators and Conditions
+### 10. Oparators and Boolean Oparators
 
 Oparators:
 
@@ -187,16 +188,82 @@ b. Less than `>`, More than `<`, Equal and Less than `>=`, Equal and More than `
 
 Boolean Oparators:
 
-OR gate `|| or `, AND gate `&& and`.
+a. OR gate `|| or `, AND gate `&& and`, NOT gate `not`.
 
-Conditions
+b. Boolean Oparators can be use as bitwise also,
 
-if 
+   OR Gate ` | `, AND gate ` & `, XOR gate ` ^ `, NOT gate ` ~ `.
 
-elif
+Two more bit oparators,
 
-else
+Zero fill left shift ` << `
+
+Signed fill right shift ` >> `
 
 ### 11. Loops
-a. While loops
-b. For loops
+
+A. If, Elif and Else Loop: 
+	If else Loop can used multiple ways using oparators and boolean oparators. Example below,
+	```py
+	a = 2
+	b = 3
+	>>>if a == b:
+		print("Both are Equal")
+	   else:
+		print("Both are not Equal")
+	...
+	Both are not Equal
+	>>>if a != b:
+		print("True")
+	   else:
+		print("False")
+	...
+	True
+	>>>if a < b:
+		print("True")
+	   else:
+		print("False")
+	...
+	True
+	>>>if a > b:
+		print("True")
+	   else:
+		print("False")
+	...
+	False
+
+	a = 3
+
+	>>>if a <= b:
+		print("True")
+	   else:
+		print("False")
+	...
+	True
+	>>>if a >= b:
+		print("True")
+	   else:
+		print("False")
+	...
+	True
+	```
+b. While loops
+	While Loops Basically Loop will run, over and over again untill `Break` executive.
+```py
+
+while (condition) {
+  // to be executed
+}
+
+a=6
+b=1
+while (True) {
+	// Running
+	print("Running")
+	if a == b:
+		break;
+	b=b+1
+}
+```
+c. For loops
+	While Loops Basically iterate over a sequence (that is either a list, a tuple, a dictionary, a set, or a string)
