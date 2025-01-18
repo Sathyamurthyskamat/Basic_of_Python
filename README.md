@@ -266,3 +266,19 @@ while (True) {
 ```
 c. For loops
 	While Loops Basically iterate over a sequence (that is either a list, a tuple, a dictionary, a set, or a string)
+```py
+
+while (condition) {
+  // to be executed
+}
+
+a=6
+b=1
+while (True) {
+	// Running
+	print("Running")
+	if a == b:
+		break;
+	b=b+1
+}
+```
